@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* magnificFile */
+.white-popup {
+ position: relative;
+ background: #FFF;
+ padding: 20px;
+ width: auto;
+ max-width: 500px;
+ margin: 20px auto;
+}
+.tab-algo-fiveByFive{
+	width:100%;border: 1px solid black; margin:0 auto
+}
+.tab-algo-fiveByFive tr{
+	border: 1px solid black; margin: 0 auto
+}
+.tab-algo-fiveByFive tr th{
+	text-align: center;
+}
+.tab-algo-fiveByFive tbody tr th{
+	border:1px solid black; margin : 0 auto
+}
+/*login*/
